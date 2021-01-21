@@ -1,5 +1,3 @@
-var interest = principal * years * rate / 100;
-
 function compute(){
     var principal = document.getElementById("principal").value;
     var rate = document.getElementById("rangeRate").value;
