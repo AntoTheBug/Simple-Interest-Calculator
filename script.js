@@ -32,4 +32,5 @@ function validateForm() {
     document.getElementById("principal").focus(); 
     return false;
   }
+  return true
 }
